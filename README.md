@@ -1,5 +1,5 @@
 # homework1
-# CA_project1
+
 
 题目：根据经纬度坐标计算两车距离、方位角，并将计算结果进行传输。  
 要求：  
@@ -24,5 +24,11 @@
 [算法参考--c++](https://blog.csdn.net/yugemengjing/article/details/96708834)  
 [simulink自动代码生成](https://blog.csdn.net/weixin_41695564/article/details/80751543)  
 
+# 运行方式
 
- 
+Windows的运行方式
+打开文件夹TEST11111中的TEST11111.sln文件，ert_main.cpp为主函数，运行，结果如下
+
+
+Linux
+
