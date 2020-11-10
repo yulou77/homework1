@@ -27,7 +27,12 @@
 # 运行方式
 
 Windows的运行方式
-打开文件夹TEST11111中的TEST11111.sln文件，ert_main.cpp为主函数，运行，结果如下
+打开文件夹TEST11111中的TEST11111.sln文件，ert_main.cpp为主函数，运行。
+输入为（经度，纬度）
+（104.628601，29.380394）;
+（104.728602，29.380394）;
+
+结果如下：![avatar](https://github.com/yulou77/homework1/blob/main/TEST11111/res.jpg)
 
 
 Linux
